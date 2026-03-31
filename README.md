@@ -1,10 +1,16 @@
 ## Hi there 👋
 
-<p><b>I'm Renan</b> - I'm a high school student passionate about technology, currently studying IT and based in RN/Brazil.</p>
+<p>
+  <b>I'm Renan</b> - I'm a high school student passionate about technology, currently studying IT and based in RN/Brazil.
+  
+</p>
 
-<p><b>I have some experience in:</b></p>
+<p>
+  <b>I have some experience in:</b>
+  
+</p>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,html,postgres" />
   </a>
