@@ -6,13 +6,13 @@
 </p>
 
 <p>
-  <b>I have some experience in:</b>
+  <b>I have some experience with:</b>
   
 </p>
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,html,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,html,css,postgres" />
   </a>
 </p>
 
