@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 <p>
-  <b>I'm Renan</b> - I'm a high school student passionate about technology, currently studying IT and based in RN/Brazil.
+  <b>I'm Renan</b> — I'm a high school student passionate about technology, currently studying IT and based in Brazil.
   
 </p>
 
 <p>
-  <b>I have some experience with:</b>
+  <b>I have experience with:</b>
   
 </p>
 
@@ -14,6 +14,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,html,css,postgres" />
   </a>
+</p>
+
+<p>
+  Currently learning more about programming and building small projects 🚀
 </p>
 
 <!--
