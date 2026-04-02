@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>
-  <b>I'm Renan</b> — I'm a high school student passionate about technology, currently studying IT and based in Brazil.
+  <b>I'm Renan</b> — I'm a high school student passionate about technology, currently studying IT at EAJ (Escola Agrícola de Jundiaí) and based in Brazil.
   
 </p>
 
