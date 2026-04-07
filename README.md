@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>
-  <b>I'm Renan</b> — I'm a high school student passionate about technology, currently studying IT at EAJ (Escola Agrícola de Jundiaí) and based in Brazil.
+  <b>I'm Renan</b> — I'm a high school student passionate about technology, currently studying IT at <b>EAJ (Escola Agrícola de Jundiaí)- UFRN</b> and based in Brazil.
   
 </p>
 
@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,html,css,postgres,java" />
+    <img src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,html,css,postgres,java,discord,instagram,spotify,linux," />
   </a>
 </p>
 
